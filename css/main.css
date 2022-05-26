@@ -1,0 +1,77 @@
+.body{
+    background-color: rgba(214, 199, 28, 0.847);
+}
+
+.ota_div{
+    margin: auto;
+    width: 1050px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+
+.card{
+    display: flex;
+    width:250px;
+    height: 350px;
+    margin-top: 20px;
+    
+}
+
+.card-title{
+    padding-left: 10px;
+}
+.card-text{
+    padding-left: 10px;
+}
+
+.card-linkk{
+    margin-left: 100px;
+    transform: translateY(-23px);
+}
+.card-link{
+    margin-left: 10px;
+    
+}
+
+.card-img-top{
+    width: 100px;
+}
+
+.div_logo{
+
+    width: 100%;
+    margin-left: 250px;
+    display: block;
+}
+
+.div_form{
+    display: block;
+    width: 100%;
+    margin-left: 120px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.btn{
+    width: 200px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    border-radius: 10px;
+    
+}
+
+.form_select{
+    width: 200px;
+    height: 38px;
+    margin-left: 10px;
+    border-radius: 10px;
+    
+}
+
+.input_p{
+    width: 200px;
+    height: 38px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
